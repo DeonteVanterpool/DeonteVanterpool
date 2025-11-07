@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi — I'm Deonté 👋
 > Software tinkerer · aspiring apprentice · building simple, powerful tools
 
