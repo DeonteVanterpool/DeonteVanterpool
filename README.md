@@ -5,14 +5,14 @@ Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (
 
 ---
 
-## 🔭 Current
+## Current
 
 * Working on **nolatabs** — a lightweight tab manager / workflow experiment.
 * Exploring **functional core, imperative shell** architecture in real projects.
 
 ---
 
-## ⭐ Notable contribution
+## Notable contribution
 
 * Found a bug in the Slint compiler — discussion/issue: [https://github.com/slint-ui/slint/issues/1659](https://github.com/slint-ui/slint/issues/1659)
 
@@ -25,21 +25,21 @@ Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (
 
 ---
 
-## 🛠 Tech & interests
+## Tech & interests
 
 * Languages / tools I use: Rust, Go (Golang), Kotlin, Typescript, Svelte, SQL, Tauri.
 * I’m actively interested in learning more about low-level systems, compilers, and ergonomics of developer UX.
 
 ---
 
-## 📂 Portfolio & contact
+## Portfolio & contact
 
 * Portfolio: [https://deontevanterpool.com](https://deontevanterpool.com) — demos, writeups, blog posts, and links to active projects.
 * GitHub: (this profile) — check pinned repos and recent activity for the latest experiments.
 
 ---
 
-## 🤝 Want to work / collaborate?
+## Want to work / collaborate?
 
 I’m open to:
 
@@ -48,7 +48,7 @@ I’m open to:
 
 ---
 
-## 😊 A little about me
+## A little about me
 
 Hobbies: National Ethics Bowl, Muay Thai, Philosohpy, Linux Ricing and Configuration
 
