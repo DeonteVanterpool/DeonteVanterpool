@@ -12,12 +12,6 @@ Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (
 
 ---
 
-## Notable contribution
-
-* Found a bug in the Slint compiler — discussion/issue: [https://github.com/slint-ui/slint/issues/1659](https://github.com/slint-ui/slint/issues/1659)
-
----
-
 ## Projects
 
 * **nolatabs** — current project (tab manager / workflow tool).
@@ -54,5 +48,11 @@ I’m open to:
 Hobbies: National Ethics Bowl, Muay Thai, Philosohpy, Linux Ricing and Configuration
 
 Career view: I want to become skilled in my craft --engineering software. I believe that software should follow the UNIX philosophy of "make each program do one thing well." Each application has its purpose, and should be easily maintainable.
+
+---
+
+## Notable contribution
+
+* Found a bug in the Slint compiler — discussion/issue: [https://github.com/slint-ui/slint/issues/1659](https://github.com/slint-ui/slint/issues/1659)
 
 ---
