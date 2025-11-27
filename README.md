@@ -1,5 +1,5 @@
 ## Hi — I'm Deonté 👋
-> Software tinkerer · aspiring apprentice · building simple, powerful tools
+> cs @ pitt · aspiring software enginer
 
 Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (H2P!), and I'm looking to improve my technical (and soft) skills.
 
