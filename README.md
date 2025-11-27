@@ -21,7 +21,7 @@ Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (
 ## Projects
 
 * **nolatabs** — current project (tab manager / workflow tool).
-* **Noladoro** — a minimalist Pomodoro app (built as a personal project; timer-focused, labels tasks).
+* **noladoro** — a minimalist Pomodoro app (built as a personal project; timer-focused, labels tasks).
 
 ---
 
