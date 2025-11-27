@@ -34,6 +34,7 @@ Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (
 
 ## Portfolio & contact
 
+* LinkedIn: [https://linkedin.com/in/deontev](https://linkedin.com/in/deontev)
 * Portfolio: [https://deontevanterpool.com](https://deontevanterpool.com) — demos, writeups, blog posts, and links to active projects.
 * GitHub: (this profile) — check pinned repos and recent activity for the latest experiments.
 
