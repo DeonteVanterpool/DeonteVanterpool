@@ -1,7 +1,7 @@
-## Hi — I'm Deonté 👋
+## Deonté Vanterpool
 > cs @ pitt · aspiring software enginer
 
-Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (H2P!), and I'm looking to improve my technical (and soft) skills.
+I'm an undergrad student in the University of Pittsburgh (H2P!), and I'm looking to improve my technical skills in software engineering.
 
 ---
 
@@ -14,8 +14,8 @@ Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (
 
 ## Projects
 
-* **nolatabs** — current project (tab manager / workflow tool).
-* **noladoro** — a minimalist Pomodoro app (built as a personal project; timer-focused, labels tasks).
+* **Domain Specific Language (DSL)** - a domain specific language for generating SQL queries
+* **Full Stack Inventory Manager** - an inventory manager built for a grocery store
 
 ---
 
@@ -47,7 +47,9 @@ I’m open to:
 
 Hobbies: National Ethics Bowl, Muay Thai, Philosohpy, Linux Ricing and Configuration
 
-Career view: I want to become skilled in my craft --engineering software. I believe that software should follow the UNIX philosophy of "make each program do one thing well." Each application has its purpose, and should be easily maintainable.
+Career view: I want to become skilled in my craft. I believe that software should follow the UNIX philosophy of "make each program do one thing well." Each application has its purpose, and should be easily maintainable. 
+
+I also run a tech blog [asimsnotebook.com](https://asimsnotebook.com)
 
 ---
 
