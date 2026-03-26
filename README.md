@@ -7,7 +7,7 @@ Hi — I’m Deonté. I'm an undergrad student in the University of Pittsburgh (
 
 ## Current
 
-* Working on **nolatabs** — a lightweight tab manager / workflow experiment.
+* Working on **nolatabs** — a privacy based tab manager.
 * Exploring **functional core, imperative shell** architecture in real projects.
 
 ---
