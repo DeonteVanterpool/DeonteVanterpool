@@ -21,24 +21,23 @@ I'm an undergrad student in the University of Pittsburgh (H2P!), and I'm looking
 
 ## Tech & interests
 
-* Languages / tools I use: Rust, Go (Golang), Kotlin, Typescript, Svelte, SQL, Tauri.
+* Languages / tools: Rust, Go (Golang), Kotlin, Typescript, Svelte, SQL, Tauri.
 * I’m actively interested in learning more about low-level systems, compilers, and ergonomics of developer UX.
 
 ---
 
 ## Portfolio & contact
 
-* LinkedIn: [https://linkedin.com/in/deontev](https://linkedin.com/in/deontev)
-* Portfolio: [https://deontevanterpool.com](https://deontevanterpool.com) — demos, writeups, blog posts, and links to active projects.
-* GitHub: (this profile) — check pinned repos and recent activity for the latest experiments.
+* Portfolio: [https://deontevanterpool.com](https://deontevanterpool.com) — demos, writeups, links to active projects.
+* Email: <deonte.vanterpool@outlook.com>
 
 ---
 
-## Want to work / collaborate?
+## Want to collaborate?
 
-I’m open to:
+Open to:
 
-* Side projects and small collaborations where I can contribute systems thinking or Rust/Go code.
+* Interesting side projects.
 * Research opportunities around compilers, low-level systems, or developer tools.
 
 ---
@@ -47,9 +46,7 @@ I’m open to:
 
 Hobbies: National Ethics Bowl, Muay Thai, Philosohpy, Linux Ricing and Configuration
 
-Career view: I want to become skilled in my craft. I believe that software should follow the UNIX philosophy of "make each program do one thing well." Each application has its purpose, and should be easily maintainable. 
-
-I also run a tech blog [asimsnotebook.com](https://asimsnotebook.com)
+Career view: I want to make good software. I believe that software should follow the UNIX philosophy of "make each program do one thing well." Each application has its purpose, and should be maintainable. 
 
 ---
 
